@@ -1,0 +1,43 @@
+#include <LiquidCrystal.h>
+
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+
+const char* messages[] = {
+  "Drink water",
+  "Stretch",
+  "Keep going",
+  "Take a breath",
+  "You got this",
+  "Check posture"
+};
+
+const int messageCount = 6;
+int currentMessage = 0;
+
+void setup() {
+  lcd.begin(16, 2);
+
+  lcd.setCursor(0, 0);
+  lcd.print("Liz");
+  lcd.setCursor(0, 1);
+  lcd.print("Starting...");
+  delay(2000);
+}
+
+void loop() {
+  lcd.clear();
+
+  lcd.setCursor(0, 0);
+  lcd.print("Reminder:");
+
+  lcd.setCursor(0, 1);
+  lcd.print(messages[currentMessage]);
+
+  currentMessage++;
+
+  if (currentMessage >= messageCount) {
+    currentMessage = 0;
+  }
+
+  delay(5000);
+}
