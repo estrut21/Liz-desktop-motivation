@@ -50,3 +50,21 @@ step 3 upload code
 step 4 test
 When powered on deskboss initizales the lcd and begins cycling through messages and reminder. the display updates every few seconds without requiring user interaction.
 
+Photo Gallery:
+<img width="3024" height="4032" alt="IMG_7716 copy" src="https://github.com/user-attachments/assets/b49244c4-1a97-4513-b2f6-6a688810205a" />
+<img width="3024" height="4032" alt="IMG_7717 copy" src="https://github.com/user-attachments/assets/cd19ff74-118c-4529-b83f-e1c5ddd58788" />
+<img width="4284" height="5712" alt="IMG_7718 copy" src="https://github.com/user-attachments/assets/dfc0c81c-d739-4739-b336-06842663d82b" />
+<img width="4284" height="5712" alt="IMG_7719 copy" src="https://github.com/user-attachments/assets/770a9b72-77c1-4dda-90d5-ee245e92d285" />
+<img width="4284" height="5712" alt="IMG_7721 copy" src="https://github.com/user-attachments/assets/1a5b635a-cb84-4e1c-8a46-031300201271" />
+<img width="3024" height="4032" alt="IMG_7720 copy" src="https://github.com/user-attachments/assets/dd3a54eb-5bc8-4b0a-9f8b-a0cc7d15808f" />
+<img width="4284" height="5712" alt="IMG_7721 copy" src="https://github.com/user-attachments/assets/99b1ea76-e77f-4de6-8346-58edd0eb4714" />
+
+<img width="4284" height="5712" alt="IMG_7723 copy" src="https://github.com/user-attachments/assets/424c0d22-9277-46d5-ad5d-93e205bc7f6e" />
+<img width="3024" height="4032" alt="IMG_7725 copy" src="https://github.com/user-attachments/assets/bf669245-c00e-46ca-92fb-4113687a4883" />
+<img width="3024" height="4032" alt="IMG_7731 copy" src="https://github.com/user-attachments/assets/0fa8cbfa-9d3a-4815-8ddc-79837f0be3fb" />
+
+
+
+
+
+
