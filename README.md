@@ -49,6 +49,7 @@ step 3 upload code
 
 step 4 test
 When powered on deskboss initizales the lcd and begins cycling through messages and reminder. the display updates every few seconds without requiring user interaction.
+AI usage was helped to figure out code and form a template for the code but all code was reviewed written and tested by me. espically in times of struggle
 
 Photo Gallery:
 <img width="3024" height="4032" alt="IMG_7716 copy" src="https://github.com/user-attachments/assets/b49244c4-1a97-4513-b2f6-6a688810205a" />
