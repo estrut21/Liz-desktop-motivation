@@ -4,9 +4,9 @@ I made a desktop reminder to help give me useful reminders.
 Owl Liz is small Ardunio desktop that was built using an Arduino Uno and a 16x2 LCD display. The goal of the project was to create a device that could display motivational and reminders while working.
 
 Features:
--16x2 LCD interface
--Displays rotating reminders
--Built using Arduino Uno
+- 16x2 LCD interface
+- Displays rotating reminders
+- Built using Arduino Uno
 
 List of Stuff:
 - Arduino UNO
