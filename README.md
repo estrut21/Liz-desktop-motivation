@@ -9,13 +9,13 @@ Features:
 -Built using Arduino Uno
 
 List of Stuff:
--Arduino UNO
--LCD1602 display
--Breadboard
--Jumper wires
--Usb cable
--owl
--stasis cowboy hat
+- Arduino UNO
+- LCD1602 display
+- Breadboard
+- Jumper wires
+- Usb cable
+- owl
+- stasis cowboy hat
 
 Challenges:
 This project took much longer than I expected because I spent most of the time debugging and rewiring the code as well as the LCD.
@@ -30,9 +30,23 @@ First I would verify the LCD had power
 4th I tested after every change
 
 What I learned:
--wire a 16x2 LCD in 4-bit mode 
--use the Arduino liquid crystal library
--dispute power using the breadboard rails instead of connecting everything directly to the Arduino
--Read datasheets and identify LCD pins
--Debug hardware methodically instead of changing multiple things at once
+- wire a 16x2 LCD in 4-bit mode 
+- use the Arduino liquid crystal library
+- dispute power using the breadboard rails instead of connecting everything directly to the Arduino
+- Read datasheets and identify LCD pins
+- Debug hardware methodically instead of changing multiple things at once
+
+Wiring:
+<img width="1920" height="1080" alt="LCD PINS" src="https://github.com/user-attachments/assets/50035e61-1904-42c2-8d64-d4e93aedf851" />
+
+Step 1 wire lcd
+Step 2: connect power
+- arduino 5v -> Breadboard +rail
+- Arduino Gnd -> breadboard -rail
+power lcd from breadboard
+
+step 3 upload code
+
+step 4 test
+When powered on deskboss initizales the lcd and begins cycling through messages and reminder. the display updates every few seconds without requiring user interaction.
 
